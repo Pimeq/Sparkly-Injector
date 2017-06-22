@@ -7,7 +7,6 @@ The program will *not* work if the DLL is next to it.
 
 
 You need to download an assembly merger to make the DLL part of the injector.
-
 Example: https://ilmergegui.codeplex.com/
 
 
