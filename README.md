@@ -13,3 +13,9 @@ Example: https://ilmergegui.codeplex.com/
 I will not help you with a paste of the injector or how to make it undetected. It's really easy to do. If you want a less detected 
 
 version, visit https://www.Discord.io/SparklyCheat (my Discord) for the download and news on the cheat this injector comes with.
+
+Screenshots
+---
+http://i.imgur.com/ia4yOmW.png
+http://i.imgur.com/nyCxqwf.png
+http://i.imgur.com/d0EF1Vd.png
